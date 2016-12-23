@@ -2,7 +2,7 @@ $(document)
   .ready(function() {
 
     $('.filter.menu.item')
-      .tab()
+      .tabs()
     ;
 
     $('.ui.rating')
