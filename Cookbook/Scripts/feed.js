@@ -1,8 +1,8 @@
 $(document)
   .ready(function() {
 
-    $('.filter.menu.item')
-      .tabs()
+    $('.filter.menu .item')
+      .tab()
     ;
 
     $('.ui.rating')
