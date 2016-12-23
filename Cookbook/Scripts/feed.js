@@ -1,7 +1,7 @@
 $(document)
   .ready(function() {
 
-    $('.filter.menu .item')
+    $('.filter.menu.item')
       .tab()
     ;
 
